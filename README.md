@@ -1,1 +1,1 @@
-This is an E-Commerce application for various daily essentials and sesonal essentials.
+This is a online E-commerce application for supplying groceries, Mobile accessories, Daily essentials, seasonal requirements
